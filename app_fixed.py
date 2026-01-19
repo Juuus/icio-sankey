@@ -12,6 +12,7 @@ Run:
 Then open:
   http://127.0.0.1:8050
 """
+server = app.server
 
 import pandas as pd
 import numpy as np
